@@ -3,4 +3,5 @@ uuid = "c0664469-9f7d-4e61-bca4-afc37dc3cd37"
 repo = "git@github.com:KristianHolme/KristianHolmeRegistry"
 
 [packages]
+1d57ab14-0807-4ee5-93aa-665821a12dfd = { name = "RDE", path = "R/RDE" }
 6fae0b71-e89e-4561-9656-794937ecd499 = { name = "RDE_Env", path = "R/RDE_Env" }
