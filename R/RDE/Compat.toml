@@ -2,12 +2,9 @@
 CircularArrays = "1.4.0-1"
 DataFrames = "1"
 DiffEqCallbacks = "4"
-FileIO = "1"
 GLM = "1.9.0-1"
-Interpolations = "0"
 JLD2 = "0.4.28-0.6"
 LinearAlgebra = "1"
-Logging = "1"
 LoopVectorization = "0.12"
 Makie = "0"
 Observables = "0.5"
@@ -15,9 +12,14 @@ Pkg = "1"
 PrecompileTools = "1"
 ProgressMeter = "1"
 Random = "1"
-Statistics = "1"
 StatsModels = "0.7"
 julia = "1.10.0-1"
+
+["0-0.1"]
+FileIO = "1"
+Interpolations = "0"
+Logging = "1"
+Statistics = "1"
 
 ["0-0.1.0"]
 OrdinaryDiffEq = "6"
